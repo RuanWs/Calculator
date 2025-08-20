@@ -1,1 +1,1 @@
-Calculadora Simples em Js pra treinar  :nerd_face:
+Calculadora Simples pra treinar  :nerd_face:
